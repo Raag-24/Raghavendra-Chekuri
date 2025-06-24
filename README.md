@@ -37,7 +37,6 @@ Welcome! I'm a Computer Science & Engineering student passionate about building 
 ## 💼 Projects I Worked On
 
 ### 🔹 GRIET Result Portal
-(https://github.com/Raag-24/Automated-Result-Portal-for-GRIET)
 > Django + MySQL based internal result portal for college:
 - Filters student data by branch & section
 - Sends personalized result SMS to students using Twilio
@@ -45,7 +44,6 @@ Welcome! I'm a Computer Science & Engineering student passionate about building 
 - Implemented selection-based bulk SMS logic
 
 ### 🔹 NIRVACHANA - Biometrically Authenticated Digital Voting System (Hackathon Prototype)
-(https://github.com/Raag-24/Nirvachana)
 > Capstone project using ESP32 + R307S fingerprint sensor + Django backend:
 - Authenticates voters using biometrics
 - Verifies eligibility and vote status in real time
@@ -53,14 +51,12 @@ Welcome! I'm a Computer Science & Engineering student passionate about building 
 - Frontend displays real-time verification results
 
 ### 🔹 SHARK-PITCH - Startup Investment Platform
-(https://github.com/Raag-24/Shark-Pitch)
 > Django web platform for connecting investors & startups:
 - Startups can post pitch decks, stats, and videos
 - Investors can view, shortlist, and initiate chats or video calls
 - Explored integration with external messaging/video APIs
 
 ### 🔹 AdoptAPaw – Pet Adoption Portal
-(https://github.com/Raag-24/AdoptAPaw)
 > Platform based on React.js and Next.js for connecting pet shelters with adopters:  
 - Shelters can post pets with details, images, and contact info  
 - Users can browse and filter pets by type, age, or availability  
